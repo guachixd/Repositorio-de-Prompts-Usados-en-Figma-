@@ -1,6 +1,6 @@
 # Repositorio-de-Prompts-Usados-en-Figma-
 # 1. Como Product Owner quiero definir los requerimientos de acceso al sistema para que los usuarios puedan ingresar de forma segura según su rol.
-# Fine-Tuned English (FTE+) — Prototipo UX/UI
+# Fine-Tuned English — Prototipo UX/UI
 
 Prototipo de alta fidelidad (mobile-first) de **Fine-Tuned English**, una plataforma de capacitación corporativa en línea donde los colaboradores acceden a sus cursos asignados, rinden evaluaciones y obtienen certificados, mientras RRHH y Administración gestionan usuarios, cursos y reportes.
 
