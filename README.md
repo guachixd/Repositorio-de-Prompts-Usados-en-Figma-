@@ -76,7 +76,7 @@ El entregable debe estructurarse como una aplicación de una sola página (Singl
 
 ---
 
-### 🎨 1. IDENTIDAD VISUAL Y DISEÑO (BRANDING)
+### 1. IDENTIDAD VISUAL Y DISEÑO (BRANDING)
 Aplica la siguiente paleta de colores corporativos del cliente para dar una estética de alta fidelidad, premium y profesional:
 - Color Primario (Azul): #0d63a7 (usado para la marca, botones primarios y acentos corporativos).
 - Color de Acento (Fucsia): #e40054 (usado para acciones críticas, botones destacados y estados activos).
@@ -88,13 +88,13 @@ Aplica la siguiente paleta de colores corporativos del cliente para dar una est�
 
 ---
 
-### 📱 2. FORMATO DEL DISPOSITIVO
+### 2. FORMATO DEL DISPOSITIVO
 - El diseño debe ser Mobile-First (optimizado y centrado para la pantalla de un smartphone).
 - Integra un contenedor o "canvas móvil" centrado en el navegador de escritorio para que parezca una pantalla de celular real durante la simulación y pruebas de usabilidad (por ejemplo en Maze).
 
 ---
 
-### 🧩 3. PANTALLAS Y FLUJOS A IMPLEMENTAR
+### 3. PANTALLAS Y FLUJOS A IMPLEMENTAR
 El prototipo debe permitir la navegación interactiva por los siguientes flujos mediante un enrutador en JavaScript:
 
 #### A) Flujo de Acceso (Público):
@@ -121,7 +121,7 @@ El prototipo debe permitir la navegación interactiva por los siguientes flujos 
 
 ---
 
-### 🕹️ 4. PANEL DE CONTROL DE PRUEBAS (DEVELOPER CONTROL PANEL)
+###  4. PANEL DE CONTROL DE PRUEBAS (DEVELOPER CONTROL PANEL)
 Añade un menú flotante discreto (idealmente en la parte inferior o lateral) exclusivo del prototipo que permita:
 1. Alternar instantáneamente el rol del usuario (Estudiante, Administrador, Recursos Humanos).
 2. Saltar directamente a cualquier pantalla específica de la aplicación para agilizar las pruebas heurísticas y demostraciones.
@@ -129,6 +129,7 @@ Añade un menú flotante discreto (idealmente en la parte inferior o lateral) ex
 Genera el código limpio y comentado repartido en tres archivos principales: `index.html` (estructura), `styles.css` (estilos premium responsivos) y `app.js` (toda la lógica interactiva SPA y simulación de base de datos local).
 
 Link visible del primer prototipo de figma: https://www.figma.com/design/v82vYlmStcmeSvTplOtoWy/Sin-t%C3%ADtulo?node-id=0-1&t=d5fkzqTNhIBGmwwt-1
+
 Link visible del segundo protipo mejorado https://www.figma.com/design/3iFVrnYqYlRbdYxwMiVITn/Sin-t%C3%ADtulo?node-id=0-1&t=zhqHOxZia3BtzBHp-1
 
 
